@@ -2,14 +2,16 @@ body{
 	margin: 0;
 	padding: 0;
 	background: #ccc;
+	font-family: Quark;
 }
 
 .nav ul{
 	list-style: none;
-	background-color: #444;
+	background-color: #222;
 	padding: 0;
 	margin: 0;
 	text-align: left;
+
 }
 
 .nav li{
@@ -25,10 +27,11 @@ body{
 	padding-left: 15px;
 	border-bottom: 1px solid #888;
 	transition: .3s;
+
 }
 
 .nav a:hover{
-	background-color: #005f5f;
+	background-color: #3077fb;
 }
 
 .nav li li {
@@ -44,6 +47,7 @@ body{
 		font-size: 1.4em;
 		display: inline-block;
 		margin-right: -4px;
+
 	}
 
 	.nav a{
