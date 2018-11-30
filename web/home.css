@@ -1,3 +1,35 @@
+html, body{
+	margin: 0;
+	padding: 0;
+  }
+  
+  .footer {
+	background-color: #222;
+	color : white;
+	padding: 15px;
+	width: 100%;
+	margin: 0;
+	text-align: center;
+	position:absolute;
+	bottom:0;
+}
+  .wapper{
+	width: 940px;
+	margin: auto;
+  }
+  
+  .row{
+	ovweflow: hidden;
+	font-size: 30px;
+  }
+  .banner {
+	padding-top: 400px;
+	padding-bottom: 70px;
+	font-family: sans-serif;
+	text-align: center;
+	background: url(money.jpg);
+	color: white;
+  }
 body{
 	margin: 0;
 	padding: 0;
