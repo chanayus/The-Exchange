@@ -11,6 +11,6 @@ def main():
     plt.title("Exchange Rate", color="orange", fontsize=18)
     plt.ylabel("Rate")
     plt.xlabel("Month")
-    plt.legend("")
+    plt.legend()
     plt.show()
 main()
