@@ -8,7 +8,7 @@ def main():
     avg = sum(y)/12
     plt.plot(x, y, color="blue", marker="o", label="Exchange Rates")
     plt.axhline(avg, color="red", linestyle="--", label="Average")
-    plt.title("Exchange Rates", color="black", fontsize=18)
+    plt.title("Exchange Rates 2001", color="black", fontsize=18)
     plt.ylabel("Rate")
     plt.xlabel("Month")
     plt.legend()
