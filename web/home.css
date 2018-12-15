@@ -22,7 +22,7 @@ html, body{
   }
   
   .row{
-	ovweflow: hidden;
+	overflow: hidden;
 	font-size: 30px;
   }
   .banner {
