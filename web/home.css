@@ -27,6 +27,8 @@ html, body{
   }
   .banner {
 	padding-top: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
 	padding-bottom: 70px;
 	font-family: sans-serif;
 	text-align: center;
