@@ -1,0 +1,16 @@
+
+body {
+	font-family: 'Mitr', sans-serif
+}
+.money-section{
+    background-image: url("../image/Money.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+}
+.footer-section{
+	background-color: #222;
+	color: #fff;
+	padding: 3.0rem 0;
+}
